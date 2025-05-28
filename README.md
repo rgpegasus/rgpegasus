@@ -1,6 +1,6 @@
 <!-- ⚡ Dynamic Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Salut+%F0%9F%91%8B+Je+suis+Pegasus.;Créateur+d'Erebus+Empire+—+app+de+streaming;Une+expérience+unique+pour+les+amateurs+d%27animés.;Bienvenue+dans+mon+royaume+de+code.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Salut+%F0%9F%91%8B+Je+suis+RG+Pegasus.;Créateur+d'Erebus+Empire+—+app+de+streaming;Une+expérience+unique+pour+les+amateurs+d%27animés.;Bienvenue+dans+mon+royaume+de+code.">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 ---
 
-### 🔥 Projets
+### 🔥 Mes projets
 | 💡 Projet | Description |
 |----------|-------------|
 | [**ErebusEmpire**](https://github.com/rgpegasus/ErebusEmpire) |  Plateforme ultime de streaming d’animes : lecture fluide, téléchargement local sécurisé, player ultra-personnalisé et UX pensée pour les vrais fans de puissance et de style. |
@@ -50,8 +50,7 @@
 
 ---
 
-### 📈 Stats
-<br>
+### 📈 Mes stats
 <p align="center">
 <table align="center">
 <tr>
