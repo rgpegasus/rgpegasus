@@ -10,7 +10,7 @@
 ---
 
 ### 🧬 Qui suis-je ?
-- 🧠 ** Developer** passionné par la tech, l’expérience utilisateur et l’innovation
+- 🧠 **Developer** passionné par la tech, l’expérience utilisateur et l’innovation
 - 🚀 Je crée **Erebus Empire**, une app stylée, rapide et puissante pour les fans d’animés
 - ⚙️ Architecte, dev, UI/UX, QA — je gère tout du backend au frontend avec hargne
 - 🧪 Le grind est quotidien : **discipline, flow, mewing et résilience**, le combo Sigma UwU
